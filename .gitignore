@@ -8,8 +8,6 @@ data/
 *.pt
 *.pth
 rerun_outputs.json
-# keep evasion_comparison.png (referenced by README)
-!evasion_comparison.png
 
 # virtualenvs
 .venv/
