@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# data and intermediate artifacts
+data/
+*.pt
+*.pth
+rerun_outputs.json
+# keep evasion_comparison.png (referenced by README)
+!evasion_comparison.png
+
+# virtualenvs
+.venv/
+venv/
+env/
+
+# editors
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
